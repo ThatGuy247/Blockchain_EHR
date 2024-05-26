@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// A year
+// A year of work
 
 pragma solidity ^0.8.4;
 
