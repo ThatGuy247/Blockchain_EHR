@@ -4,7 +4,7 @@
 pragma solidity ^0.8.4;
 
 contract Med {
-
+ 
     // ### VARIABLES SECTION ###
 
     address public admin; // Admin of contract
