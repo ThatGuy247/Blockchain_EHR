@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 // A year of work
 
-pragma solidity ^0.8.4;
+pragma solidity ^0.8.4; 
 
 contract Med {
  
